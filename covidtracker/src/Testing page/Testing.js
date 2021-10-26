@@ -14,7 +14,6 @@ function Testing()  {
         <div className="testing-section"/>
             <div className="testing-header">
                 <h1 className="covid-label">COVID-19 TRACKER</h1>
-            
         </div>
         <h3 className="testing-requirement">Testing Requirements</h3>
         <p className="test-sub">Testing is available to students, faculty, and staff at the testing facility
@@ -93,7 +92,6 @@ function Testing()  {
 
         
           {/* Footer Goes Here*/}
-
        
         </main>
 
